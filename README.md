@@ -1,4 +1,6 @@
-# 002
+# Задание FRWM-004
+## Возведение в степень на Vue
+Итоговое приложение развернуто на [GitHub Pages](https://flatdragon.github.io/ifmo-js-frmw-004/).
 
 ## Project setup
 ```
